@@ -50,7 +50,7 @@ category: current
 </li>
 </ul>
 
-For more information, visit Lee's [personal website](https://iwanhae.github.io/wanhae-lee).
+For more information, visit Lee's [personal website](http://iwanhae.kr).
 
 <!-- _pages/publications.md -->
 <div class="publications">
