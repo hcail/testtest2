@@ -8,12 +8,21 @@ display_categories: [current, alumni]
 horizontal: false
 ---
 
-<h2>2022</h2>
+<h2>2023</h2>
   <ul>
+
+  <li><p>[<b>Feb. 2023</b>] Three papers have been
+    accepted to appear at the <a href="https://iui.acm.org/2023/">
+       ACM Conference on Intelligent User Interfaces (IUI'23)
+      </a> in Sydney, Australia (March 2023).</p>
+  </li>
+
+
   <li>
     <p>[<b>Jan. 2023</b>] Welcome! Youngeun Ju and Sanghun Kim joined HCAIL as a undergraduate research intern, respectively!     
   </p>
   </li>
+  <h2>2022</h2>
   <li>
     <p>[<b>Dec. 2022</b>] Our paper has been accepted
     for publication in the <a href="https://ieeeaccess.ieee.org/">
