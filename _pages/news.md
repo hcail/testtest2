@@ -23,6 +23,9 @@ horizontal: false
   </p>
   </li>
   <h2>2022</h2>
+  <li><p>[<b>Dec. 2022</b>] Three papers were presented at <a href="https://www.kiise.or.kr/conference/KSC/2022/">KSC 2022</a> in Jeju, Korea.</p>
+  </li>
+
   <li>
     <p>[<b>Dec. 2022</b>] Our paper has been accepted
     for publication in the <a href="https://ieeeaccess.ieee.org/">
