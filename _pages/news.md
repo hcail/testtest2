@@ -16,13 +16,13 @@ horizontal: false
        ACM Conference on Intelligent User Interfaces (IUI'23)
       </a> in Sydney, Australia (March 2023).</p>
   </li>
-
-
   <li>
     <p>[<b>Jan. 2023</b>] Welcome! Youngeun Ju and Sanghun Kim joined HCAIL as a undergraduate research intern, respectively!     
   </p>
   </li>
+  </ul>
   <h2>2022</h2>
+    <ul>
   <li><p>[<b>Dec. 2022</b>] Three papers were presented at <a href="https://www.kiise.or.kr/conference/KSC/2022/">KSC 2022</a> in Jeju, Korea.</p>
   </li>
 
