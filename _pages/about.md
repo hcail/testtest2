@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <img src="./assets/img/hcail_facct2022.jpg" alt="HCAIL at the the FAcct 2022 conference" width="100%" >
-HCAIL group photo at [FAcct'22](https://facctconference.org/2022/) in June 2022! Photo credit to Prof. [Kyungwoo Song](https://mlai.uos.ac.kr/).
+HCAIL group photo at [FAcct'22](https://facctconference.org/2022/) in June 2022!
 
 Welcome to the Human-Centered Artificial Intelligence Lab (HCAIL)!
 We are a research group
@@ -48,7 +48,7 @@ to support individuals with special needs.
 We have an opening position for a fully-funded MS and PhD student starting Spring 2023.
 Visit \[[석사과정/박사과정 모집공고](https://docs.google.com/document/d/1QBoU-sR9mJZtyt9OZu044fdfuqe6Dxk1eTOvr0gviyk/edit?usp=sharing)\].
 Send your resume to me so that we can discuss about how to join HCAIL a MS or PhD student.
-For Spring 2023, we aim to admit up to <font color="red"><b>2-3 new MS or PhD students</b></font>.
+For Fall 2023, we aim to admit up to <font color="red"><b>2-3 new MS or PhD students</b></font>.
 
 HCAIL 연구실 자료 참고바랍니다:
 \[[슬라이드](https://docs.google.com/presentation/d/1zqJlkv5vcCQLH48IYlBD8WKG1ABj-0qsSNluUNKrDJ8/edit?usp=sharing)\]

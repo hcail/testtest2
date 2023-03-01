@@ -9,7 +9,20 @@ horizontal: false
 ---
 
 <h2>2023</h2>
-  <ul>
+
+<ul>
+<li><p>[<b>Feb. 2023</b>]
+Congratulations! Minki Chun and Hyeonhak Jeong obtained their Master's degree in Computer Science, respectively.
+</p>
+</li>
+  <li><p>[<b>Feb. 2023</b>]
+  Congratulations! Minki Chun was selected as an outstanding paper award recipient of the University of Seoul.
+  </p>
+  </li>
+<li><p>[<b>Feb. 2023</b>]
+Congratulations! Minki Chun was selected as an ACM IUI student grant recipient to attend <a href="https://iui.acm.org/2023/">IUI'23</a> in Sydney, Australia (March 2023).
+</p>
+</li>
 
   <li><p>[<b>Feb. 2023</b>] Three papers have been
     accepted to appear at the <a href="https://iui.acm.org/2023/">
@@ -21,8 +34,8 @@ horizontal: false
   </p>
   </li>
   </ul>
-  <h2>2022</h2>
-    <ul>
+<h2>2022</h2>
+<ul>
   <li><p>[<b>Dec. 2022</b>] Three papers were presented at <a href="https://www.kiise.or.kr/conference/KSC/2022/">KSC 2022</a> in Jeju, Korea.</p>
   </li>
 
