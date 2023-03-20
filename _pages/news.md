@@ -11,6 +11,9 @@ horizontal: false
 <h2>2023</h2>
 
 <ul>
+<li><p>[<b>Mar. 2023</b>] Our paper was presented at <a href="https://amia.org/education-events/amia-2023-informatics-summit">
+AMIA 2023 Informatics Summit</a> in Seattle, U.S.</p>
+</li>
 <li><p>[<b>Feb. 2023</b>]
 Congratulations! Minki Chun and Hyeonhak Jeong obtained their Master's degree in Computer Science, respectively.
 </p>
