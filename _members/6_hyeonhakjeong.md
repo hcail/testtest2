@@ -5,8 +5,8 @@ title_s1: M.S. Student
 title_s2: University of Seoul
 description: drummycrane [at] gmail.com
 img: assets/img/hjeong.jpeg
-importance: 6
-category: current
+importance: 8
+category: alumni
 ---
 
 ### Short Bio

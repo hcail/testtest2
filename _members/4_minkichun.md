@@ -5,8 +5,8 @@ title_s1: M.S. Student
 title_s2: University of Seoul
 description: cna81136 [at] uos.ac.kr
 img: assets/img/mchun.png
-importance: 4
-category: current
+importance: 7
+category: alumni
 ---
 
 ### Short Bio

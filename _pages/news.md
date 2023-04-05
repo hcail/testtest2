@@ -11,8 +11,24 @@ horizontal: false
 <h2>2023</h2>
 
 <ul>
+<li>
+  <p>[<b>Mar. 2023</b>] Hyunmin and Minki served as a student volunteer at
+  <a href="https://iui.acm.org/2023/">IUI’23</a>
+  successfully! :sparkles: :smile:
+  </p>
+</li>
+<li>
+  <p>[<b>Mar. 2023</b>] Three papers were presented at <a href="https://iui.acm.org/2023/">IUI 2023</a> in Sydney, Australia.
+  </p>
+</li>
+<li><p>[<b>Mar. 2023</b>] Congratulations! Hyunmin Lee was selected as a
+<a href="https://sigchi.org/gary-marsden-travel-award-recipients/">Gary Marsden Travel Awards</a> recipient.</p>
+</li>
 <li><p>[<b>Mar. 2023</b>] Our paper was presented at <a href="https://amia.org/education-events/amia-2023-informatics-summit">
 AMIA 2023 Informatics Summit</a> in Seattle, U.S.</p>
+</li>
+<li><p>[<b>Feb. 2023</b>] Congratulations! Minki Chun was selected as an
+ACM IUI Student Grants recipient.</p>
 </li>
 <li><p>[<b>Feb. 2023</b>]
 Congratulations! Minki Chun and Hyeonhak Jeong obtained their Master's degree in Computer Science, respectively.
@@ -62,12 +78,15 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
       <p>[<b>Nov. 2022</b>] Our paper about fairness in artificial intelligence has been published
       in <a href="https://www.dbpia.co.kr/journal/voisDetail?voisId=VOIS00697449">Communications of the Korean Institute of Information Scientists and Engineers.</a></p></li>
   <li>
-    <p>[<b>Oct. 2022</b>] Sungmin served as a student volunteer at
+    <p>[<b>Oct. 2022</b>] Sungmin Na served as a student volunteer at
     <a href="https://uist.acm.org/uist2022/">UIST’22</a>
     successfully! :sparkles: :smile:
     </p>
     </li>
   <li>
+  <li><p>[<b>Oct. 2022</b>] Congratulations! Sungmin Na was selected as a
+  <a href="https://sigchi.org/gary-marsden-travel-award-recipients/">Gary Marsden Travel Awards</a> recipient.</p>
+  </li>
     <p>[<b>Sep. 2022</b>] Our paper has been accepted for publication in the <a href="https://www.springer.com/journal/10209">
     Universal Access in the Information Society (UAIS)</a> journal.
     </p>

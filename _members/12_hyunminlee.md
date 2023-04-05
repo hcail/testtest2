@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hyunmin Lee
-title_s1: Undergraduate Research Intern
+title_s1: M.S. Student
 title_s2: University of Seoul
 description: yunoa64 [at] gmail.com
 img: assets/img/hmlee.png
@@ -10,7 +10,7 @@ category: current
 ---
 
 ### Short Bio
-<p>Hyunmin Lee is an undergraduate student majoring in <a href="https://engineering.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science</a> at the <a href="https://www.uos.ac.kr">University of Seoul</a>. He is a research intern at the <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.</p>
+<p>Hyunmin Lee is a Master's student majoring in <a href="https://engineering.uos.ac.kr/engineering/depart/cs/welcome.do">Computer Science</a> at the <a href="https://www.uos.ac.kr">University of Seoul</a>. He is a research intern at the <a href="http://hcail.github.io">Human-Centered Artificial Intelligence Lab (HCAIL)</a> under the supervision of <a href="http://hyunggujung.com">Prof. Hyunggu Jung</a>.</p>
 
 ### Education
 <ul>
