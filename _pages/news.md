@@ -12,6 +12,15 @@ horizontal: false
 
 <ul>
 <li>
+  <p>[<b>May 2023</b>] Our paper has been accepted for publication
+  in the <a href="https://www.cell.com/heliyon/">Heliyon</a> journal. :sparkles: :smile:
+  </p>
+</li>
+<li>
+  <p>[<b>Apr. 2023</b>] Welcome! Yunseo Moon joined HCAIL as a undergraduate research intern!     
+</p>
+</li>
+<li>
   <p>[<b>Mar. 2023</b>] Hyunmin and Minki served as a student volunteer at
   <a href="https://iui.acm.org/2023/">IUI’23</a>
   successfully! :sparkles: :smile:
