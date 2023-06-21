@@ -13,12 +13,12 @@ horizontal: false
 <ul>
 <li>
   <p>[<b>June 2023</b>] Our two papers have been accepted to appear at
-  <a href="https://sites.google.com/view/aihci/">Artificial Intelligence \& Human-Computer Interaction ICML'23 Workshop</a>, Honolulu, HI, USA (July 2023). :sparkles: :smile:
+  <a href="https://sites.google.com/view/aihci/">AI&HCI ICML'23 Workshop</a>, Honolulu, HI, USA (July 2023). :sparkles: :smile:
 </p>
 </li>
 <li>
   <p>[<b>June 2023</b>] Our two papers have been accepted to appear at
-  <a href="https://cscw.acm.org/2023/">CSCW'23</a>, Minneapolis, MN, USA (Oct 2023). :sparkles: :smile:
+  <a href="https://cscw.acm.org/2023/">CSCW'23</a>, Minneapolis, MN, USA (October 2023). :sparkles: :smile:
 </p>
 </li>
 <li>
