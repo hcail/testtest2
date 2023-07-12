@@ -6,7 +6,7 @@ title_s2: KakaoCorp
 description: iwanhae [at] gmail.com
 img: assets/img/wlee.png
 importance: 19
-category: current
+category: alumni
 ---
 
 ### Short Bio
