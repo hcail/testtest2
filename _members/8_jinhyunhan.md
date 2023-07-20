@@ -25,8 +25,6 @@ category: current
 
 ### Employment History
 <ul>
-<li>Research Intern, Human-Centered Artificial Intelligence Lab (HCAIL), University of Seoul, Seoul, Korea from March 2021.
-</li>
 <li>Deputy General Manager, UST21, Incheon, Korea from 2017 to 2022.
 </li>
 </ul>

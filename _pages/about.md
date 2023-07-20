@@ -51,7 +51,7 @@ Send your resume to me so that we can discuss about how to join HCAIL a MS or Ph
 For Fall 2023, we aim to admit up to <font color="red"><b>2-3 new MS or PhD students</b></font>.
 
 HCAIL 연구실 자료 참고바랍니다:
-\[[슬라이드](https://docs.google.com/presentation/d/1zqJlkv5vcCQLH48IYlBD8WKG1ABj-0qsSNluUNKrDJ8/edit?usp=sharing)\]
+\[[슬라이드](https://docs.google.com/presentation/d/1UnrdKF8r5UXXs2iyNmCL7p6nqA890kvFbc9xkEj15tg/edit?usp=sharing)\]
 \[[영상](https://youtu.be/InN5-mk6TrU)\]
 
 ---
