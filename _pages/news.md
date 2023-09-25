@@ -12,6 +12,12 @@ horizontal: false
 
 <ul>
 <li>
+  <p>[<b>Aug. 2023</b>] Our paper has been accepted
+  for publication in the <a href="https://ieeeaccess.ieee.org/">
+  IEEE Access</a> journal. :sparkles: :smile:
+  </p>
+  </li>
+<li>
   <p>[<b>June 2023</b>] Our two papers have been accepted to appear at
   <a href="https://sites.google.com/view/aihci/">ICML'23 Workshop on Artificial Intelligenbce & Human Computer Interaction</a>, Honolulu, HI, USA (July 2023). :sparkles: :smile:
 </p>
@@ -80,7 +86,7 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
   <li>
     <p>[<b>Dec. 2022</b>] Our paper has been accepted
     for publication in the <a href="https://ieeeaccess.ieee.org/">
-    IEEE Access</a> journal.. :sparkles: :smile:
+    IEEE Access</a> journal. :sparkles: :smile:
     </p></li>
   <li>
     <p>[<b>Nov. 2022</b>] Hyunmin and Soohyun served as a student volunteer at
