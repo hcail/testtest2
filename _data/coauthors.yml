@@ -1,7 +1,3 @@
-"Kwon":
-  - firstname: ["Hyosun"]
-    url: https://exfablab.kookmin.ac.kr/eXFabLab/members.do
-
 "Lee":
   - firstname: ["Hyunmin"]
     url: https://yunoa64.github.io/
@@ -23,6 +19,8 @@
 "Kwon":
   - firstname: ["Soohyun"]
     url: https://skwon017.github.io/
+  - firstname: ["Hyosun"]
+    url: https://exfablab.kookmin.ac.kr/eXFabLab/members.do
 
 "Bae":
   - firstname: ["Yunjung"]
