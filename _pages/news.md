@@ -12,6 +12,12 @@ horizontal: false
 
 <ul>
 <li>
+  <p>[<b>Oct. 2023</b>] Hyunmin, SeungYoung, Sungmin, Taewon, and Yunseo served as a student volunteer at
+  <a href="https://cscw.acm.org/2023/">CSCW’23</a>
+  successfully! :sparkles: :smile:
+  </p>
+</li>
+<li>
   <p>[<b>Aug. 2023</b>] Our paper has been accepted
   for publication in the <a href="https://ieeeaccess.ieee.org/">
   IEEE Access</a> journal. :sparkles: :smile:
