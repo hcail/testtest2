@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SeungYoung Oh
-title_s1: Undedrgraduate Research Intern
+title_s1: B.S.-M.S. Student
 title_s2: University of Seoul
 description: dhtmddud08 [at] gmail.com
 img: assets/img/soh.png
@@ -14,7 +14,7 @@ category: current
 
 ### Education
 <ul>
-<li>Pursuing his B.S. in Computer Science, University of Seoul.
+<li>Pursuing his B.S. and M.S. degrees in Computer Science, University of Seoul.
 </li>
 </ul>
 
