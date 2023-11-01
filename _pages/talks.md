@@ -15,7 +15,7 @@ nav: true
 </table>
 <br>
 
-<h4>Taewon's Presentation @ACM CSCW 2023</h4>
+<h4>Taewon's Presentation @ACM CSCW'23</h4>
 <table id="TABLENAME">
   <tr class="r1">
     <td class="c2"><img src="/assets/img/tyoo_cscw23.jpg" width="100%" style="vertical-align: -4px"></td>
@@ -23,7 +23,7 @@ nav: true
 </table>
 <br>
 
-<h4>Sungmin's Presentation @ACM CSCW 2023</h4>
+<h4>Sungmin's Presentation @ACM CSCW'23</h4>
 <table id="TABLENAME">
   <tr class="r1">
     <td class="c2"><img src="/assets/img/sna_cscw23.jpg" width="100%" style="vertical-align: -4px"></td>
