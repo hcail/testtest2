@@ -6,6 +6,23 @@ description:
 nav: true
 ---
 
+
+<h4>Taewon's Presentation @ACM CSCW 2023</h4>
+<table id="TABLENAME">
+  <tr class="r1">
+    <td class="c2"><img src="/assets/img/twyoo_cscw23.jpg" width="100%" style="vertical-align: -4px"></td>
+ </tr>
+</table>
+<br>
+
+<h4>Sungmin's Presentation @ACM CSCW 2023</h4>
+<table id="TABLENAME">
+  <tr class="r1">
+    <td class="c2"><img src="/assets/img/sna_cscw23.jpg" width="100%" style="vertical-align: -4px"></td>
+ </tr>
+</table>
+<br>
+
 <h4>Hyunggu's Presentation @Urban Bigdata and AI Institute</h4>
 <b>Leveraging Human-Centered AI to Improve Decision Making in Health Informatics</b>
 <iframe width="100%" src="https://www.youtube.com/embed/InN5-mk6TrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
