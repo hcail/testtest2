@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SeungYoung Oh
-title_s1: B.S.-M.S. Student
+title_s1: Undergraduate Research Intern
 title_s2: University of Seoul
 description: dhtmddud08 [at] gmail.com
 img: assets/img/soh.png
