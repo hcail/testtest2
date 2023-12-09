@@ -24,7 +24,7 @@ category: current
 </li>
 </ul>
 
-For more information, visit Kim's [personal website](https://copel0317.github.io/copel0317/).
+For more information, visit Moon's [personal website](https://copel0317.github.io/copel0317/).
 
 <!-- _pages/publications.md -->
 <div class="publications">

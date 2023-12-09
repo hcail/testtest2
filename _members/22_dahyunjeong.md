@@ -25,7 +25,7 @@ She is expecting to receive his B.S. in <a href="https://engineering.uos.ac.kr/e
 </li>
 </ul>
 
-For more information, visit Kim's [personal website](https://bronging.github.io).
+For more information, visit Jeong's [personal website](https://bronging.github.io).
 
 <!-- _pages/publications.md -->
 <div class="publications">
