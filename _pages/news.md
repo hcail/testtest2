@@ -12,7 +12,11 @@ horizontal: false
 
 <ul>
 <li>
-  <p>[<b>Dec. 2023</b>] Welcome! Dahyun Jeong joined HCAIL as a undergraduate research intern!     
+  <p>[<b>Jan. 2024</b>] Welcome! Yubin Kim joined HCAIL as a undergraduate research intern!     
+</p>
+</li>
+<li>
+  <p>[<b>Dec. 2023</b>] Welcome! Dahyun Jeong and Seonghwan Oh joined HCAIL as a undergraduate research intern!     
 </p>
 </li>
 <li>

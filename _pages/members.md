@@ -2,7 +2,7 @@
 layout: page
 title: people
 permalink: /members/
-description: as of April 2023
+description: as of January 2024
 nav: true
 display_categories: [current, alumni]
 horizontal: false
@@ -60,7 +60,7 @@ horizontal: false
 <tr>
   <td class="c2">Jiwon Chun</td>
   <td class="c2">Undergraduate Research Intern</td>
-  <td class="c2">Sookmyung Women's University</td>
+  <td class="c2">Texas A&M University</td>
   <td class="c2">Winter 2021 - Spring 2022</td>
 </tr>
 <tr>
