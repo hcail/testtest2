@@ -13,11 +13,11 @@ horizontal: false
 <li>
   <p>[<b>Jan. 2024</b>] Welcome! Yubin Kim joined HCAIL as a undergraduate research intern!     
 </p>
+</li>
 </ul>
 
 <h2>2023</h2>
 <ul>
-</li>
 <li>
   <p>[<b>Dec. 2023</b>] Welcome! Seonghwan Oh joined HCAIL as a undergraduate research intern!     
 </p>

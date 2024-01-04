@@ -45,10 +45,10 @@ to support individuals with special needs.
 ---
 
 #### Interested in joining HCAIL as a MS or PhD student?
-We have an opening position for a fully-funded MS and PhD student starting Spring 2024.
+We have an opening position for a fully-funded MS and PhD student starting Fall 2024.
 Visit \[[석사과정/박사과정 모집공고](https://docs.google.com/document/d/1QBoU-sR9mJZtyt9OZu044fdfuqe6Dxk1eTOvr0gviyk/edit?usp=sharing)\].
 Send your resume to me so that we can discuss about how to join HCAIL a MS or PhD student.
-For Spring 2024, we aim to admit up to <font color="red"><b>2-3 new MS or PhD students</b></font>.
+For Full 2024, we aim to admit up to <font color="red"><b>2-3 new MS or PhD students</b></font>.
 
 HCAIL 연구실 자료 참고바랍니다:
 \[[슬라이드](https://docs.google.com/presentation/d/1UnrdKF8r5UXXs2iyNmCL7p6nqA890kvFbc9xkEj15tg/edit?usp=sharing)\]
@@ -57,7 +57,7 @@ HCAIL 연구실 자료 참고바랍니다:
 ---
 
 #### Interested in a research opportunity for undergraduate students?
-Visit \[[학부연구생 인턴 모집공고](https://docs.google.com/document/d/1QBoU-sR9mJZtyt9OZu044fdfuqe6Dxk1eTOvr0gviyk/edit?usp=sharing)\]  and send your resume to me if you are interested in a unique <font color="red"><b>research intern</b></font> opportunity.
+Visit \[[학부연구생 인턴 모집공고](https://docs.google.com/document/d/1QBoU-sR9mJZtyt9OZu044fdfuqe6Dxk1eTOvr0gviyk/edit?usp=sharing)\] and send your resume to me if you are interested in a unique <font color="red"><b>research intern</b></font> opportunity.
 HCAIL is ready for maximizing your research potential during your internship.
 
 ---
