@@ -8,15 +8,27 @@ display_categories: [current, alumni]
 horizontal: false
 ---
 
-<h2>2023</h2>
-
+<h2>2024</h2>
 <ul>
 <li>
   <p>[<b>Jan. 2024</b>] Welcome! Yubin Kim joined HCAIL as a undergraduate research intern!     
 </p>
+</ul>
+
+<h2>2023</h2>
+<ul>
 </li>
 <li>
-  <p>[<b>Dec. 2023</b>] Welcome! Dahyun Jeong and Seonghwan Oh joined HCAIL as a undergraduate research intern!     
+  <p>[<b>Dec. 2023</b>] Welcome! Seonghwan Oh joined HCAIL as a undergraduate research intern!     
+</p>
+</li>
+<li>
+  <p>[<b>Dec. 2023</b>] Four papers have been accepted to appear at the <a href="https://conference.hcikorea.org/hcik2024/">
+   HCI Korea 2024
+ </a> (February 2024).</p>
+</li>
+<li>
+  <p>[<b>Dec. 2023</b>] Welcome! Dahyun Jeong joined HCAIL as a undergraduate research intern!     
 </p>
 </li>
 <li>
@@ -94,6 +106,12 @@ Congratulations! Minki Chun was selected as an ACM IUI student grant recipient t
   </ul>
 <h2>2022</h2>
 <ul>
+<li>
+  <p>[<b>Dec. 2022</b>] One paper has been accepted to appear at the <a href="https://conference.hcikorea.org/hcik2023/">
+   HCI Korea 2023
+ </a> (February 2023).</p>
+</li>
+
   <li><p>[<b>Dec. 2022</b>] Three papers were presented at <a href="https://www.kiise.or.kr/conference/KSC/2022/">KSC 2022</a> in Jeju, Korea.</p>
   </li>
 
