@@ -3,7 +3,7 @@ layout: page
 title: Yubin Kim
 title_s1: Undergraduate Research Intern
 title_s2: University of Seoul
-description: jeongdahyunj [at] gmail.com
+description: cosmos2718 [at] ewhain.net
 img: assets/img/ybkim.png
 importance: 25
 category: current
