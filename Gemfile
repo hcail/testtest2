@@ -18,3 +18,7 @@ group :jekyll_plugins do
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
 end
+
+gem 'uri', '0.13.0'
+gem 'rspec'
+gem "faraday-retry", "~> 2.2"
