@@ -30,7 +30,7 @@ category: current
 
 ### Professional Activities
 <ul>
-<li>Student Volunteer, ACM CSCW, Oct. 2021.
+<li>Student Volunteer, ACM CSCW, Oct. 2021, Oct. 2023.
 </li>
 <li>Student Volunteer, ACM ASSESTS, Oct. 2021.
 </li>
